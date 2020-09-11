@@ -1,7 +1,12 @@
+- company: OSI Lab
+- position: Student researcher
+- duration: Dec, 2019 &mdash; Feb, 2020 
+- summary: Study knowledge distillation on natural language model; transformer.
+
 # Jobs
 - company: UVR Lab
   position: Developer
-  duration:  Aug, 2018 &mdash; Present
+  duration:  Aug, 2019 &mdash; Nov, 2019
   summary: Develop 2d scene generating application with GAN, used after Unity 3D map rendering.
 # Director of Digital Stratgy
 - company: Semiconductor System Lab
