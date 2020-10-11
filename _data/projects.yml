@@ -1,4 +1,10 @@
 # Projects
+- project: EEG Classifier
+  role: Developer
+  duration: 2020 Summer
+  url: "https://github.com/jaeyoung0909/EEG-classifier"
+  description: Classify EEG dataset for biological science researcher
+  
 - project: Webtooniverse
   role: Developer
   duration: 2019 Fall
